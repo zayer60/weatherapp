@@ -11,6 +11,10 @@ form input[name ="country"]{
     border-radius:0;
 }
 form input:focus{
-    background-color: transparent;
+    background-color: transparent !important;
     box-shadow: none !important;
+}
+
+form-input.container::-webkit-input-placeholder{
+    color: white !important;
 }
