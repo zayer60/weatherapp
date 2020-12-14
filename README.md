@@ -5,7 +5,7 @@
 # it downloads all the dependency in the project
 # to run the app write a command -> npm start
 # it will open in a browser via http://localhost:3000
-# since the weather icons folder should be present in the dependencies folder ie on the node_modules folder that gets created once you download the download the dependencies for this project. we can then download the weather icons that this app can access from here https://github.com/erikflowers/weather-icons.git .
+# since the weather icons folder should be present in the dependencies folder ie on the node_modules folder that gets created once you download the dependencies for this project. we can then download the weather icons that this app can access from here https://github.com/erikflowers/weather-icons.git .
 # you can download it via a teminal using npm https://github.com/erikflowers/weather-icons.git which it will place the folder on node_modules folder
 or download it explicitly and place it in a node-modules folder renaming the folder exactly what is in a code.
 
